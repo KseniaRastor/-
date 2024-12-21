@@ -1,0 +1,19 @@
+﻿  server.c
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger_server\messenger_server\server.c(39,24): warning C4098: FuncForTimer: функция типа "void", возвращающая значение
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger_server\messenger_server\server.c(45,3): warning C4098: FuncForTimer: функция типа "void", возвращающая значение
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger_server\messenger_server\server.c(86,47): warning C4267: функция: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger_server\messenger_server\server.c(190,43): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger_server\messenger_server\server.c(247,39): warning C4267: функция: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger_server\messenger_server\server.c(340,37): warning C4267: функция: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger_server\messenger_server\server.c(368,36): warning C4267: функция: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger_server\messenger_server\server.c(147,7): warning C4101: cMsgSize: неиспользованная локальная переменная
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger_server\messenger_server\server.c(540,60): warning C4267: функция: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger_server\messenger_server\server.c(486,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger_server\messenger_server\server.c(448,8): warning C4101: szBufCopy: неиспользованная локальная переменная
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger_server\messenger_server\server.c(654,60): warning C4267: функция: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger_server\messenger_server\server.c(568,8): warning C4101: szBufCopy: неиспользованная локальная переменная
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger_server\messenger_server\server.c(678,43): warning C4133: функция: несовместимые типы - из "char [22]" в "LPCWSTR"
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger_server\messenger_server\server.c(709,7): warning C4101: buffer: неиспользованная локальная переменная
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger_server\messenger_server\server.c(703,9): warning C4101: hThreadsOnlineUserList: неиспользованная локальная переменная
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger_server\messenger_server\server.c(378,1): warning C4715: ThreadFuncForSending: значение возвращается не при всех путях выполнения
+  messenger_server.vcxproj -> D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger_server\x64\Debug\messenger_server.exe

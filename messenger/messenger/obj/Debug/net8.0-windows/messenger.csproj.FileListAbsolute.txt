@@ -1,0 +1,16 @@
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\messenger\bin\Debug\net8.0-windows\messenger.exe
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\messenger\bin\Debug\net8.0-windows\messenger.deps.json
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\messenger\bin\Debug\net8.0-windows\messenger.runtimeconfig.json
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\messenger\bin\Debug\net8.0-windows\messenger.dll
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\messenger\bin\Debug\net8.0-windows\messenger.pdb
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\messenger\obj\Debug\net8.0-windows\messenger.Form1.resources
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\messenger\obj\Debug\net8.0-windows\messenger.csproj.GenerateResource.cache
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\messenger\obj\Debug\net8.0-windows\messenger.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\messenger\obj\Debug\net8.0-windows\messenger.AssemblyInfoInputs.cache
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\messenger\obj\Debug\net8.0-windows\messenger.AssemblyInfo.cs
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\messenger\obj\Debug\net8.0-windows\messenger.csproj.CoreCompileInputs.cache
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\messenger\obj\Debug\net8.0-windows\messenger.dll
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\messenger\obj\Debug\net8.0-windows\refint\messenger.dll
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\messenger\obj\Debug\net8.0-windows\messenger.pdb
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\messenger\obj\Debug\net8.0-windows\messenger.genruntimeconfig.cache
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\messenger\obj\Debug\net8.0-windows\ref\messenger.dll

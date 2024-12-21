@@ -1,0 +1,13 @@
+﻿  my_functions.cpp
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\functions\header.h(7,41): warning C4091: __declspec(dllexport): пропускается слева от "MyDataTransferProtocol", когда ни одна переменная не объявлена
+  (компиляция исходного файла "my_functions.cpp")
+  
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\functions\my_functions.cpp(61,47): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\functions\my_functions.cpp(135,47): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\functions\my_functions.cpp(200,47): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\functions\my_functions.cpp(218,54): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\functions\my_functions.cpp(248,47): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\functions\my_functions.cpp(302,9): warning C4101: NumMsg: неиспользованная локальная переменная
+D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\functions\my_functions.cpp(301,10): warning C4101: design: неиспользованная локальная переменная
+     Создается библиотека D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\x64\Debug\functions.lib и объект D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\x64\Debug\functions.exp
+  functions.vcxproj -> D:\ПГУ. Учебные пособия\5 семестр\основы ОС\курсовая\messenger\x64\Debug\functions.dll
